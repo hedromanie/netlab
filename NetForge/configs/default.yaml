@@ -1,4 +1,0 @@
-# NetLab default configuration
-interface: null
-log_dir: logs
-default_rate_limit_pps: 500
